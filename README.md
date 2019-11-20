@@ -4,7 +4,11 @@ Grupo: Isadora D, Gabriela Moreno, Lais Nascimento e Stephanie Liu
 
 No arquivo Leitura_Dados há o próposito do projeto, com a base de dados analisada e a leitura desses [Leitura_Dados.ipynb]
 
+No arquivo AnaliseExploratoria_Entrega2 tem a primeira análise dos dados [AnaliseExploratoria_Entrega2.ipynb]
+
 No arquivo Regressão Linear_Entrega 3 há aplicação da regressão linear e análise de resultados [Linear_Entrega 3.ipynb]
+
+No arquivo Adicionando_Variáveis a análise é melhorada através da adicição de novas variáveis [Adicionando_Variáveis.ipynb]
 
 No arquivo Decision_Tree os dados são colocados na regression tree e são analisados [Decision_Tree.ipynb]
 
