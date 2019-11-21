@@ -6,7 +6,7 @@ Grupo: Isadora D, Gabriela Moreno, Lais Nascimento e Stephanie Liu
 
 [No arquivo AnaliseExploratoria_Entrega2 tem a primeira análise dos dados, com a descrição do que o projeto pretende realizar](AnaliseExploratoria_Entrega2.ipynb)
 
-[No arquivo Regressão Linear_Entrega 3 há aplicação da regressão linear e análise de resultados](Linear_Entrega 3.ipynb)
+[No arquivo Regressão Linear_Entrega 3 há aplicação da regressão linear e análise de resultados](Linear_Entrega_3.ipynb)
 
 [No arquivo Adicionando_Variáveis a análise é melhorada através da adicição de novas variáveis](Adicionando_Variáveis.ipynb)
 
@@ -15,6 +15,8 @@ Grupo: Isadora D, Gabriela Moreno, Lais Nascimento e Stephanie Liu
 [No arquivo Radom Forest Regression está aplicado está técnica como forma de melhorar a regression tree](Radom-Forest-Regression.ipynb)
 
 [No arquivo KNeighborsRegressor o dados foram analisados com a técnica K-Neighbors](KNeighborsRegressor.ipynb)
+
+[No arquivo  ComparandoRegressoes há a junção e comparação das regressões e seus resultado](ComparandoRegressoes)
 
 [No arquivo SGD_Regression há atentativa te implementar está técnica, no entando não funcionou (apenas documentação)](SGD_Regression)
 
