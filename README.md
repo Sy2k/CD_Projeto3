@@ -4,7 +4,7 @@ Grupo: Isadora D, Gabriela Moreno, Lais Nascimento e Stephanie Liu
 
 [No arquivo Leitura_Dados há o próposito do projeto, com a base de dados analisada e a leitura desses](Leitura_Dados.ipynb)
 
-[No arquivo AnaliseExploratoria_Entrega2 tem a primeira análise dos dados](AnaliseExploratoria_Entrega2.ipynb)
+[No arquivo AnaliseExploratoria_Entrega2 tem a primeira análise dos dados, com a descrição do que o projeto pretende realizar](AnaliseExploratoria_Entrega2.ipynb)
 
 [No arquivo Regressão Linear_Entrega 3 há aplicação da regressão linear e análise de resultados](Linear_Entrega 3.ipynb)
 
@@ -12,7 +12,7 @@ Grupo: Isadora D, Gabriela Moreno, Lais Nascimento e Stephanie Liu
 
 [No arquivo Decision_Tree os dados são colocados na regression tree e são analisados](Decision_Tree.ipynb)
 
-[No arquivo Radom Forest Regression está aplicado está técnica como forma de melhorar a regression tree](Radom Forest Regression.ipynb)
+[No arquivo Radom Forest Regression está aplicado está técnica como forma de melhorar a regression tree](Radom-Forest-Regression.ipynb)
 
 [No arquivo KNeighborsRegressor o dados foram analisados com a técnica K-Neighbors](KNeighborsRegressor.ipynb)
 
