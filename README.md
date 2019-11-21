@@ -23,6 +23,33 @@ Grupo: Isadora D, Gabriela Moreno, Lais Nascimento e Stephanie Liu
 REFERÊNCIAS:
 
 https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+
 https://edisciplinas.usp.br/pluginfile.php/4125431/mod_resource/content/2/mineracaodadosbiologicos-parte5.pdf
+
 http://www.dca.fee.unicamp.br/~lboccato/topico_5_k_nearest_neighbor.pdf
+
+https://www.datacamp.com/community/tutorials/decision-tree-classification-python
+
+https://towardsdatascience.com/interactive-visualization-of-decision-trees-with-jupyter-widgets-ca15dd312084
+
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html#sklearn.metrics.r2_score
+
+https://www.youtube.com/watch?v=hu75pRVe60s&feature=youtu.be
+
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dropna.html
+
+https://www.programcreek.com/python/example/83782/sklearn.tree.DecisionTreeRegressor
+
+https://graphviz.gitlab.io/_pages/Download/Download_windows.html
+
+https://datascience.stackexchange.com/questions/37428/graphviz-not-working-when-imported-inside-pydotplus-graphvizs-executables-not
+
+https://stackoverflow.com/questions/36979421/how-can-i-use-conda-to-install-pydotplus
+
+https://datascience.stackexchange.com/questions/37428/graphviz-not-working-when-imported-inside-pydotplus-graphvizs-executables-not
+
 
