@@ -52,4 +52,6 @@ https://stackoverflow.com/questions/36979421/how-can-i-use-conda-to-install-pydo
 
 https://datascience.stackexchange.com/questions/37428/graphviz-not-working-when-imported-inside-pydotplus-graphvizs-executables-not
 
+Livro: Hands on machine learning with scikit-learn and tensorflow
+
 
