@@ -12,7 +12,7 @@ Grupo: Isadora D, Gabriela Moreno, Lais Nascimento e Stephanie Liu
 
 [No arquivo Decision_Tree os dados são colocados na regression tree e são analisados](Decision_Tree.ipynb)
 
-[No arquivo Radom Forest Regression está aplicado está técnica como forma de melhorar a regression tree](Radom Forest Regression.ipynb)
+[No arquivo Radom Forest Regression está aplicado está técnica como forma de melhorar a regression tree](Radom-Forest-Regression.ipynb)
 
 [No arquivo KNeighborsRegressor o dados foram analisados com a técnica K-Neighbors](KNeighborsRegressor.ipynb)
 
