@@ -16,7 +16,9 @@ Grupo: Isadora D, Gabriela Moreno, Lais Nascimento e Stephanie Liu
 
 7. [No arquivo KNeighborsRegressor o dados foram analisados com a técnica K-Neighbors](KNeighborsRegressor.ipynb)
 
-8. [No arquivo  ComparandoRegressoes há a junção e comparação das regressões e seus resultado, com a conclusão](ComparandoRegressoes)
+8. [No arquivo  ComparandoRegressoes há a junção e comparação das regressões e seus resultado, com a conclusão(P/ WINDOWS](	ComparandoRegressoes-RodaWindows.ipynb)
+
+8.2 [No arquivo  ComparandoRegressoes há a junção e comparação das regressões e seus resultado, com a conclusão(P/ WINDOWS](	ComparandoRegressoes-RodaMac.ipynb)
 
 9. [No arquivo SGD_Regression há atentativa te implementar está técnica, no entando não funcionou (apenas documentação)](SGD_Regression)
 
